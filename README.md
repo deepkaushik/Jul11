@@ -7,5 +7,6 @@
  5. Explicit Intent - Go to other apps activity and come back.
  6. ToneGenerator for beep on touch
  7. try and catch exceptions
- 8. Animations through images located in drawable.
+ 8. Animations through drawable images.
+ 9. A new activity mentioned in AndroidManifest.
 
